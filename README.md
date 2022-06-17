@@ -40,5 +40,8 @@ rutinas y planes de entrenamiento. Y por parte del cliente a su entrenador,
 como su peso actual y las medidas de las distintas partes del cuerpo con
 su entrenador para que pueda monitorizar su evolución.
 
-## Instalación de la aplicación
+## Instalación de la aplicación (Original)
 Descargar archivo apk desde el siguiente enlace de drive e instalar => https://drive.google.com/file/d/15wq59z-o8fvJNB6KepFf0wGJISsPJY_G/view?usp=sharing
+
+## Instalación de la aplicación (Mejora Chat)
+Descargar archivo apk desde el siguiente enlace de drive e instalar => https://drive.google.com/drive/u/0/folders/15y1Z-z8fV5A1iUoet37quXuOW7xvpiUX
