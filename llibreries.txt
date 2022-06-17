@@ -1,0 +1,9 @@
+npm install // initcialitzar el projecte, instala node-modules automaticament
+
+npm install react-native-select-dropdown // per als selectors deplegables
+
+npm install axios // per a la petició a la API i base de dades
+
+npm install react-native-paper // per als components Surface, TextInput , RadioButton , Llistes...
+
+expo install expo-linear-gradient // per al fons de color en register i login 
